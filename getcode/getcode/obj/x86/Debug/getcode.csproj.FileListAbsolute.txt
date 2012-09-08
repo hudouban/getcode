@@ -1,0 +1,9 @@
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\getcode.Form1.resources
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\getcode.Properties.Resources.resources
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\bin\Debug\getcode.exe
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\bin\Debug\getcode.pdb
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\getcode.exe
+C:\Users\lxf\Documents\GitHub\getcode\getcode\getcode\obj\x86\Debug\getcode.pdb
